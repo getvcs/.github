@@ -7,7 +7,7 @@ Our team of passionate engineers and developers are obsessed with creating apps,
 
 ## Our Information 📫
   - [Twitter](https//x.com/getvcsai)
-  - [Linked In](https://linkedin.com/vcsai)
+  - [Linked In](https://linkedin.com/company/vcsai)
   - [Instagram](https://instagram.com/vcsai)
   - [Contact Us](mailto://contact@vcs.ai)
 
