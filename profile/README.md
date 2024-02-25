@@ -11,4 +11,4 @@ Our team of passionate engineers and developers are obsessed with creating apps,
   - [Instagram](https://instagram.com/getvcsai)
   - [Contact Us](mailto://contact@vcs.ai)
 
-![VCS Banner-1500x500](https://github.com/getvcs/getvcs/assets/148738271/4a2cb026-7b9f-4026-b598-b388cf677fe9)
+![VCS Banner-1500x500](https://i.imgur.com/r11M9jP.png)
