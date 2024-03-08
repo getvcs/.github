@@ -6,7 +6,7 @@ Founded in 2023, Velocity Cloud Services (VCS for short) is a startup technology
 Our team of passionate engineers and developers are obsessed with creating apps, websites, and tools that solve real-world problems. We believe technology should be accessible, intuitive, and user-friendly for everybody.
 
 ## Our Information 📫
-  - [Twitter](https//x.com/getvcsai)
+  - [Twitter](https://x.com/getvcsai)
   - [Linked In](https://linkedin.com/company/vcsai)
   - [Instagram](https://instagram.com/getvcsai)
   - [Contact Us](mailto://contact@vcs.ai)
